@@ -14,8 +14,7 @@ A **proposition (or statement)** is a declarative sentence that is either true o
 | r= “2 < 4”                  | True        |
 | s= “4 = 7”                  | False       |
 ## 1.2 Connectives/Operators
-**Connectives/operators** are used for making **compound
-propositions**.
+**Connectives/operators** are used for making **compound propositions**.
 
 | Description             |                           |
 | ----------------------- | ------------------------- |

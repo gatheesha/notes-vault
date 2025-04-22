@@ -1,0 +1,6 @@
+ - [ ] Compuer  org and arch - chamara - IIIC 1082
+ - [ ] ethical conduct of learners ISC1071
+ - [ ] compelete Maths 1
+ - [ ] software eng 1 dr nalaka - iic1042
+ - [ ] phsics for tech dr udaya - isc 1033
+ - [ ] 
