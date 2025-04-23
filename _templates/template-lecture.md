@@ -3,14 +3,15 @@ topic: Lecture Topic Name
 code: MODULE123
 week: Week0
 lecturer: Lecturer Name
-date & time: 2025-04-23
+date: 2025-04-23
+draft: true
 tags:
   - lecture
   - module/MODULE123
   - week/1
   - topic/introduction
 ---
-# title - module - lecture
+# {{code}} - {{topic}}
 ## Summary
 Brief summary of the main points and key takeaways from this lecture (2-3 sentences).
 ## Key Concepts
