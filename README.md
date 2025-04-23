@@ -42,3 +42,4 @@ University/
 - [x] setup templates
 - [ ] modules notes
 ## Site
+- [ ] setup hugo

@@ -1,5 +1,0 @@
----
-module code: 
-date: 
-lecturer:
----
