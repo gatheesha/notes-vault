@@ -5,6 +5,7 @@ week: Week0
 lecturer: Lecturer Name
 date: 2025-04-23
 draft: true
+menu: "{{code}}"
 tags:
   - lecture
   - module/MODULE123
