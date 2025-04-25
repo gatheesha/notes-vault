@@ -3,6 +3,8 @@ title: Module Name
 code: Module Code
 semester: "01"
 credits: 3
+cascade:
+  type: docs
 tags:
   - module
   - course
