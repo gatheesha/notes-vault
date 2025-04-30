@@ -11,8 +11,6 @@ tags:
   - lecture
   - coa
 ---
-# {{code}} - {{topic}}
----
 ## Summary
 Brief summary of the main points and key takeaways from this lecture (2-3 sentences).
 
