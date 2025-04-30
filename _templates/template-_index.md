@@ -1,22 +1,21 @@
 ---
-title: Module Name
-code: Module Code
-semester: "01"
-credits: 3
+title: 
+code: 
+semester: 
+credits: 
 cascade:
   type: docs
 tags:
-  - module
-  - course
-  - MOD123
 ---
 ## Course Description
 Brief description of the module, its purpose, and what you'll learn throughout the semester.
+
 ## Learning Objectives
 - Understand core principles of [subject]
 - Develop skills in [specific area]
 - Apply theoretical knowledge to [practical applications]
 - Analyze and evaluate [relevant problems/scenarios]
+
 ## Assessment Structure
 - **Assignment 1 (20%)** - Individual essay - Due: Week 5
 - **Group Project (30%)** - Presentation and report - Due: Week 8
